@@ -1,0 +1,18 @@
+body {
+    font-family:  Helvetica, sans-serif;
+}
+
+h1, h2, h3 .green {
+    color: #007765;
+}
+header .logo:hover img {
+    opacity: 0.6;
+    transition: 1s;
+}
+footer i {
+    font-size: 4em;
+    color: white;
+  color: #3d3d3d;
+}
+
+

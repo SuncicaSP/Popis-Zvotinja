@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="baza.xslt"?>
+<document>
+	<unos>
+		<boja>bijela</boja>
+		<pasmina>samojed</pasmina>
+		<opis>tekst</opis>
+		<nekretnina>DA_NE</nekretnina>
+		<iskustvo>DA_NE</iskustvo>
+	</unos>
+	<unos>
+		<boja>crna</boja>
+		<pasmina>pudlica</pasmina>
+		<opis>tekst</opis>
+		<nekretnina>DA_NE</nekretnina>
+		<iskustvo>DA_NE</iskustvo>
+	</unos>
+	<unos>
+		<boja>šareni</boja>
+		<pasmina>mješanac</pasmina>
+		<opis>tekst</opis>
+		<nekretnina>DA_NE</nekretnina>
+		<iskustvo>DA_NE</iskustvo>
+	</unos>
+	<unos>
+		<boja>žuti</boja>
+		<pasmina>vučjak</pasmina>
+		<opis>tekst</opis>
+		<nekretnina>DA_NE</nekretnina>
+		<iskustvo>DA_NE</iskustvo>
+	</unos>
+	<unos>
+		<boja>smeđi</boja>
+		<pasmina>šarplaninac</pasmina>
+		<opis>tekst</opis>
+		<nekretnina>DA_NE</nekretnina>
+		<iskustvo>DA_NE</iskustvo>
+	</unos>
+</document>
+
